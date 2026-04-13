@@ -1,17 +1,57 @@
-# finance_app
+# 💰 Finance App (Flutter)
 
-A new Flutter project.
+A modern mobile finance tracking application built using Flutter.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+* 💳 Dashboard with total balance
+* 📊 Income and expense overview (in progress)
+* 🧾 Transaction tracking (coming soon)
+* 🎨 Clean modern UI design
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here later)*
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/mobile-development-projects.git
+
+### 2. Navigate to the app
+
+cd mobile-development-projects/finance_app
+
+### 3. Run the app
+
+flutter run
+
+---
+
+## 📌 Project Status
+
+🚧 Currently in development
+
+---
+
+## 🎯 Purpose
+
+This project is part of my journey to becoming a professional mobile developer. It focuses on building real-world UI and improving my Flutter skills.
+
+---
+
+## 👨‍💻 Author
+
+Stacey Van Wyk
