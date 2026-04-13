@@ -1,57 +1,41 @@
-# 💰 Finance App (Flutter)
+# 📱 Mobile Development Projects
 
-A modern mobile finance tracking application built using Flutter.
+This repository contains my mobile apps built with Flutter.
 
-## 📱 Features
+## 🚀 Projects
 
-* 💳 Dashboard with total balance
-* 📊 Income and expense overview (in progress)
-* 🧾 Transaction tracking (coming soon)
-* 🎨 Clean modern UI design
+### 💰 Finance App
+
+A finance tracking app with dashboard UI and expense management.
+📂 Path: finance_app/
 
 ---
 
-## 🚀 Tech Stack
+### 🌤️ Weather App
+
+A weather forecasting app using API data.
+📂 Path: weather_app/
+
+---
+
+### 💬 Chat App
+
+A real-time chat application (coming soon).
+📂 Path: chat_app/
+
+---
+
+## 🛠️ Tech Stack
 
 * Flutter
 * Dart
 
 ---
 
-## 📸 Screenshots
+## 📌 Purpose
 
-*(Add screenshots here later)*
+This repository showcases my journey in mobile development.
 
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/mobile-development-projects.git
-
-### 2. Navigate to the app
-
-cd mobile-development-projects/finance_app
-
-### 3. Run the app
-
-flutter run
-
----
-
-## 📌 Project Status
-
-🚧 Currently in development
-
----
-
-## 🎯 Purpose
-
-This project is part of my journey to becoming a professional mobile developer. It focuses on building real-world UI and improving my Flutter skills.
-
----
-
-## 👨‍💻 Author
+👨‍💻 Author
 
 Stacey Van Wyk
